@@ -12,7 +12,7 @@ Codexの利用枠残量と処理中のActivityを表示する、macOS用の小�
 右側の **Releases** から最新のPreview版を開き、Assetsにある次のファイルをダウンロードしてください。
 
 - アプリ本体: `Codex-Usage-HUD-0.5.0-preview-mac.zip`
-- 取扱説明書: `Codex-Usage-HUD-取扱説明書-0.5.0.pdf`
+- 取扱説明書: `Codex-Usage-HUD-Manual-JA-0.5.0.pdf`
 
 GitHubが自動表示する `Source code (zip)` はアプリ本体ではありません。
 
